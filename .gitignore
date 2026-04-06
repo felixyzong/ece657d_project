@@ -205,3 +205,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Reference papers
+docs/*.pdf
+
+# Dataset
+data/
+
+# Models
+*.pth
+
+*.txt
